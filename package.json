@@ -1,0 +1,20 @@
+{
+  "name": "practica_integradora_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Enrique Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "mongoose": "^7.1.0",
+    "mongoose-paginate-v2": "^1.7.1",
+    "socket.io": "^4.6.1"
+  }
+}
